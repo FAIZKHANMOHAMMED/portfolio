@@ -1,4 +1,5 @@
 {
+  "homepage": "https://FAIZKHANMOHAMMED.github.io/portfolio/",
   "name": "portfolio-f",
   "private": true,
   "version": "0.0.0",
@@ -7,6 +8,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
+    "predeploy":"npm run dist",
+    "deploy":"gh-pages -d build",
     "preview": "vite preview"
   },
   "dependencies": {
