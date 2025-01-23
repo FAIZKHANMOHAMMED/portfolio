@@ -148,7 +148,7 @@ export const experiences = [
 "Node.js",
 "Express.js"
     ],
-    doc: "/src/images/offer_fluent.jpg",
+    doc: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXZO9Hap8l3AkrcM_fYsDBwsQH0gjKaejZJzwXE4ZfDrVoTI4ii2vB9y_7xzcP6DbwaPJQZ7HKRPH2DVKO1TKJWzS8HqStcEJblRWqcC48s7wLQg0z1McbKyQ1q9ETbeG8vKDorrjw9ZNiJuNrQZu9P1EeKOYYz1J22xoE2bzU1ySTeIs5FwILZ-AN1MN8/s1755/offer_fluent.jpg",
   },
   {
     id: 0,
@@ -173,7 +173,7 @@ export const experiences = [
 "GitHub"
 
     ],
-    doc: "/src/images/Uptooffer.png",
+    doc: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzX6FRDwndMOWH30rPdN-URtOKchBOgzyWy4FmKiNH9NPL0zDwiGybndvgv5tw56cRZeNMVgE8uCJN6RLiLvyEdCBgQyPmuI_8bWdYdijieb-cVIQh6q-E1aQ92IdYTWpuKUNNgRJRQ6N2QPMcevCReVaOzHyX31RR_fAu8oLBcwAUpLHfO09uobCgxQS_/s692/Uptooffer.png",
   }
 ];
 
