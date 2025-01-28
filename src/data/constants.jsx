@@ -1,4 +1,5 @@
 import offer_fluent from '../assets/offer_fluent.jpg'
+import Uptooffer from '../assets/Uptooffer.png'
 
 export const Bio = {
   name: "FAIZ KHAN MOHAMMED",
@@ -150,7 +151,6 @@ export const experiences = [
 "Node.js",
 "Express.js"
     ],
-    // doc: "/src/images/offer_fluent.jpg",
     doc: offer_fluent,
   },
   {
@@ -176,7 +176,7 @@ export const experiences = [
 "GitHub"
 
     ],
-    doc: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzX6FRDwndMOWH30rPdN-URtOKchBOgzyWy4FmKiNH9NPL0zDwiGybndvgv5tw56cRZeNMVgE8uCJN6RLiLvyEdCBgQyPmuI_8bWdYdijieb-cVIQh6q-E1aQ92IdYTWpuKUNNgRJRQ6N2QPMcevCReVaOzHyX31RR_fAu8oLBcwAUpLHfO09uobCgxQS_/s320/Uptooffer.png",
+    doc: Uptooffer,
   },
 ];
 
