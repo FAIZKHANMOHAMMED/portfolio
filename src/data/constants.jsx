@@ -134,7 +134,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "/src/images/fluentgrid_logo.jpeg",
+    img: "https://th.bing.com/th/id/OIP.H7GQlRK906FHAef0mvILzwHaEK?w=266&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
     role: "Web Development Intern",
     company: "Fluentgrid Limited",
     date: "May 2024 - June 2024",
@@ -148,11 +148,11 @@ export const experiences = [
 "Node.js",
 "Express.js"
     ],
-    doc: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXZO9Hap8l3AkrcM_fYsDBwsQH0gjKaejZJzwXE4ZfDrVoTI4ii2vB9y_7xzcP6DbwaPJQZ7HKRPH2DVKO1TKJWzS8HqStcEJblRWqcC48s7wLQg0z1McbKyQ1q9ETbeG8vKDorrjw9ZNiJuNrQZu9P1EeKOYYz1J22xoE2bzU1ySTeIs5FwILZ-AN1MN8/s1755/offer_fluent.jpg",
+    doc: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXZO9Hap8l3AkrcM_fYsDBwsQH0gjKaejZJzwXE4ZfDrVoTI4ii2vB9y_7xzcP6DbwaPJQZ7HKRPH2DVKO1TKJWzS8HqStcEJblRWqcC48s7wLQg0z1McbKyQ1q9ETbeG8vKDorrjw9ZNiJuNrQZu9P1EeKOYYz1J22xoE2bzU1ySTeIs5FwILZ-AN1MN8/s320/offer_fluent.jpg",
   },
   {
-    id: 0,
-    img: "/src/images/uptologo.png",
+    id: 1,
+    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAbMR1udCBUp63Unf_MVo6EQuIKrM3mONDlkBo-P87u8QGYtan5JrZDmlbQDjylurXYmexQUWTmXnjNuCSmSEdjxM0-Wozn9Ru5JZ2EqZwJRJFSfaFX7GLcVbLjZwmTzf-ev_P-6JsahQyeqMS35YhKsHVGdrf8SNcIDk7Lkm_nqmNmy4dhnKpqvcjSxDa/s1600/uptologo.png",
     role: "Fullstack Web Development Intern",
     company: "UptoSkills",
     date: "Nov 2024 - Feb 2025",
@@ -173,20 +173,40 @@ export const experiences = [
 "GitHub"
 
     ],
-    doc: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzX6FRDwndMOWH30rPdN-URtOKchBOgzyWy4FmKiNH9NPL0zDwiGybndvgv5tw56cRZeNMVgE8uCJN6RLiLvyEdCBgQyPmuI_8bWdYdijieb-cVIQh6q-E1aQ92IdYTWpuKUNNgRJRQ6N2QPMcevCReVaOzHyX31RR_fAu8oLBcwAUpLHfO09uobCgxQS_/s692/Uptooffer.png",
-  }
+    doc: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzX6FRDwndMOWH30rPdN-URtOKchBOgzyWy4FmKiNH9NPL0zDwiGybndvgv5tw56cRZeNMVgE8uCJN6RLiLvyEdCBgQyPmuI_8bWdYdijieb-cVIQh6q-E1aQ92IdYTWpuKUNNgRJRQ6N2QPMcevCReVaOzHyX31RR_fAu8oLBcwAUpLHfO09uobCgxQS_/s320/Uptooffer.png",
+  },
 ];
 
 export const education = [
     {
-    id: 1,
-    img: "/src/images/schoollog0.png",
+    id: 0,
+    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDbczyvOSLTI6dm8x2BRD9fzY7Vmo_5ZWmI0TMpLuVCzoUwWMKWJ6Z4r_Yc7NiNw1sTnzTgMt_V6oozFWO9Rg6fErpO8pYj49KHXxhJfvz4VOgOIWnJC6FGhmeDdadR3YqkBA17Ot7TxoVPgg2514Z-4GpanNakj5dSHyidlBwPZH5AItjVxHRveT4m29b/s1600/schoollog0.png",
     school: "Vidyadhari Public School",
     date: "up to March 2020",
     grade: "99%",
     desc: "I completed my education up to the 10th standard at Vidyadhari School, where I demonstrated strong academic performance and actively participated in various school activities. My time at Vidyadhari School laid a solid foundation for my educational journey and helped me develop a well-rounded skill set that I continue to build upon.",
     degree: "X",
   },
+  {
+    id: 1,
+    img: "https://yt3.ggpht.com/a/AATXAJyE0Pnrt5t0DO3t3aSsxF_nibSfCWZySsoeew=s900-c-k-c0xffffffff-no-rj-mo",
+    school: "Sri Chaitanya Institution",
+    date: "April 2020 to March 2021",
+    grade: "",
+    desc: "",
+    degree: "XI",
+  },
+  {
+    id: 2,
+    img: "https://play-lh.googleusercontent.com/H0rRK_NjTlkh2JsI0NKvjIhMnKtGZ_GFxshvcWnfQWMT-_y8YqSF8MCgQvvUQWsaSbBA=w220",
+    school: "Dr.Himasekhar Jr College",
+    date: "April 2021 to March 2022",
+    grade: "85%",
+    desc: "",
+    degree: "XII",
+  }
+  
+
 ];
 
 export const projects = [
@@ -195,12 +215,34 @@ export const projects = [
     title:"netflix clone",
     date:"#",
     description:"date",
-    image:"img",
+    image:"https://faizkhanmohammed.github.io/port/images/netflix%20thumbnail.jpg",
     tags:["",""],
     category:"",
     github:"https://github.com/FAIZKHANMOHAMMED/FAIZKHANMOHAMMED.github.io/tree/main/netclone",
     webapp:"",
     //member:[{name:"",img:"",github:"",linkedin:""},{name:"",img:"",github:"",linkedin:""}],
+  },
+  {
+    id:2,
+    title:"Zerohunger",
+    date:"#",
+    description:"date",
+    image:"https://faizkhanmohammed.github.io/port/images/zerohunger%20thumbnail.jpg",
+    tags:["",""],
+    category:"Service",
+    github:"https://github.com/FAIZKHANMOHAMMED/FAIZKHANMOHAMMED.github.io/tree/main/zerohunger",
+    webapp:"xyz",
+  },
+  {
+    id:1,
+    title:"Portfolio",
+    date:"#",
+    description:"date",
+    image:"https://faizkhanmohammed.github.io/port/images/portfolio%20thumbnail.jpg",
+    tags:["",""],
+    category:"Self",
+    github:"#",
+    webapp:"",
   }
 ];
 

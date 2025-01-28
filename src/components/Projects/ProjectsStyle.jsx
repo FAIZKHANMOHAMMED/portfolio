@@ -4,7 +4,7 @@ import _default from '../../themes/default';
 export const Container = styled.div`
     background: rgb(88,85,85);
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     position: relative;
     z-index: 1;
@@ -78,9 +78,9 @@ export const Divider = styled.div`
 
 
 export const CardContainer = styled.div`
-    // display: flex;
-    // justify-content: center;
-    // align-items: center;
-    // gap: 28px;
-    // flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 28px;
+    flex-wrap: wrap;
 `;

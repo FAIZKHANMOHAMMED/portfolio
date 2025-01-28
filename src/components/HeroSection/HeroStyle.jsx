@@ -99,7 +99,7 @@ export const Img = styled.img`
   max-width: 400px;
   max-height: 400px;
   border-radius: 50%;
-  border: 2px solid #a79d7b;
+  // border: 2px solidrgb(130, 124, 104);
 
   @media (max-width: 768px) {
     max-width: 400px;
