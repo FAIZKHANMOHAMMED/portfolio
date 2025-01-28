@@ -148,7 +148,7 @@ export const experiences = [
 "Node.js",
 "Express.js"
     ],
-    doc: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXZO9Hap8l3AkrcM_fYsDBwsQH0gjKaejZJzwXE4ZfDrVoTI4ii2vB9y_7xzcP6DbwaPJQZ7HKRPH2DVKO1TKJWzS8HqStcEJblRWqcC48s7wLQg0z1McbKyQ1q9ETbeG8vKDorrjw9ZNiJuNrQZu9P1EeKOYYz1J22xoE2bzU1ySTeIs5FwILZ-AN1MN8/s320/offer_fluent.jpg",
+    doc: "/src/images/offer_fluent.jpg",
   },
   {
     id: 1,
