@@ -1,3 +1,5 @@
+import offer_fluent from '../images/offer_fluent.jpg'
+
 export const Bio = {
   name: "FAIZ KHAN MOHAMMED",
   roles: [
@@ -148,7 +150,8 @@ export const experiences = [
 "Node.js",
 "Express.js"
     ],
-    doc: "/src/images/offer_fluent.jpg",
+    // doc: "/src/images/offer_fluent.jpg",
+    doc: offer_fluent,
   },
   {
     id: 1,
