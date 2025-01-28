@@ -1,4 +1,4 @@
-import offer_fluent from '../images/offer_fluent.jpg'
+import offer_fluent from '../assets/offer_fluent.jpg'
 
 export const Bio = {
   name: "FAIZ KHAN MOHAMMED",
@@ -155,7 +155,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAbMR1udCBUp63Unf_MVo6EQuIKrM3mONDlkBo-P87u8QGYtan5JrZDmlbQDjylurXYmexQUWTmXnjNuCSmSEdjxM0-Wozn9Ru5JZ2EqZwJRJFSfaFX7GLcVbLjZwmTzf-ev_P-6JsahQyeqMS35YhKsHVGdrf8SNcIDk7Lkm_nqmNmy4dhnKpqvcjSxDa/s1600/uptologo.png",
+    img: "https://uptoskills.com/wp-content/uploads/2023/04/hd-logo-iguru.png",
     role: "Fullstack Web Development Intern",
     company: "UptoSkills",
     date: "Nov 2024 - Feb 2025",
